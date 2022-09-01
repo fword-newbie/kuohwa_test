@@ -1,0 +1,12 @@
+wheel
+Flask==1.1.1
+flask-restplus==0.12.1
+python-dateutil==2.6.1
+gunicorn==20.0.4
+Werkzeug==0.16.0
+Flask_Testing==0.8.0
+jinja2==3.0.3
+itsdangerous==2.0.1
+flask_mail
+cx_Oracle
+pytest-mock
